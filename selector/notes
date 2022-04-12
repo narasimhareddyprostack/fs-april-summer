@@ -1,0 +1,13 @@
+types selector?
+
+what is selector?
+-group of  resuable styles 
+
+
+1.Tag/Element Selector 
+2.Group of Tag  Selector 
+3.Class Selector           -  .
+4.Id Selector              -  #
+5.Group of Id,class Selector 
+6.Universal Selector 
+7.Attribute Selector 
